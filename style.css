@@ -227,3 +227,19 @@ img {
   transform: translateX(0);
   transition: transform 0.3s ease-out;
 }
+
+footer {
+  background-color: var(--main-gray);
+  color: var(--main-white);
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+footer a {
+  color: red;
+}
+
+footer a:hover {
+  text-decoration: initial;
+}
