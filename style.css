@@ -234,7 +234,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 5rem;
+  padding: 5rem;
 }
 
 footer a {
